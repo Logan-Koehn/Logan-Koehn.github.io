@@ -1,2 +1,2 @@
-# Logan-Koehn.github-io
+# Logan-Koehn.github.io
 BACS 200 - Student code
