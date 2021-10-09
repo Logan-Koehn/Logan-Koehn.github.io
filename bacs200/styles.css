@@ -1,0 +1,26 @@
+body{
+    border:solid 1 px yellow;
+    background-color: black;
+    margin: 1in;
+}
+header, main, footer{
+    text-align: center;
+}
+main,header{
+    background-color: tan;
+}
+header > h1{
+    text-shadow: -2px -2px black;
+    color: white;
+}
+h2{
+    color:black;
+    font-size:175%;
+}
+img{
+    border: solid 20px rgb(77, 57, 20);
+}
+main > h1{
+    color:white;
+    font-family: monaco, monospace;
+}
